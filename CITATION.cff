@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Cluster Test: Simple cluster-based permutation testing in
+  arbitrary dimensions
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eelke
+    family-names: Spaak
+    orcid: 'https://orcid.org/0000-0002-2018-3364'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10877825
+repository-code: 'https://github.com/Spaak/cluster-test/'
+license: GPL-3.0
