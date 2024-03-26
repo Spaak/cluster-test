@@ -1,4 +1,7 @@
 # Cluster Test
+
+[![DOI](https://zenodo.org/badge/777739144.svg)](https://zenodo.org/doi/10.5281/zenodo.10877824)
+
 Cluster-based permutation testing in arbitrary dimensions, in a simple Matlab script.
 
 Note: requires Matlab imaging processing toolbox (`bwconncomp` function, specifically). This is available on most Matlab installations.
