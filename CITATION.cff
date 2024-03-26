@@ -16,5 +16,4 @@ authors:
 identifiers:
   - type: doi
     value: 10.5281/zenodo.10877825
-repository-code: 'https://github.com/Spaak/cluster-test/'
 license: GPL-3.0
