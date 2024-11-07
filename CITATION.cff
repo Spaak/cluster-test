@@ -1,21 +1,10 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
-title: >-
-  Cluster Test: Simple cluster-based permutation testing in
-  arbitrary dimensions
-message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
-type: software
-doi: 10.5281/zenodo.10877825
+message: "If you use this software, please cite it as below."
 authors:
-  - given-names: Eelke
-    family-names: Spaak
-    orcid: 'https://orcid.org/0000-0002-2018-3364'
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.10877825
-license: GPL-3.0
+- family-names: "Spaak"
+  given-names: "Eelke"
+title: "Cluster-based permutation testing in arbitrary dimensions, in a simple Matlab script."
+version: 1.0
+doi: 10.5281/zenodo.10877825
 date-released: 2024-03-26
+url: "https://github.com/Spaak/cluster-test"
